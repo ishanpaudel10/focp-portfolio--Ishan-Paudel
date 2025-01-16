@@ -1,0 +1,48 @@
+Ishan:tell me about admissions
+Gabriel:Admissions office hours are 9 AM to 5 PM, Monday to Friday.
+
+
+Ishan:what about coffee
+Gabriel:The campus coffee bar is open from 8 AM to 6 PM.
+
+
+Ishan:hey i wanna know more about graduation ceremony
+Gabriel:Graduation ceremonies are held every year in May. Check the academic calendar for important dates.
+
+
+Ishan:okay bye
+Gabriel:Sorry, I don't have information on that.
+
+
+Ishan:tell me more about admissions
+Aristotle:Admissions office hours are 9 AM to 5 PM, Monday to Friday.
+
+
+Ishan:what about coffee break
+Aristotle:The campus coffee bar is open from 8 AM to 6 PM.
+
+
+Ishan:okay and what about housing for students
+Aristotle:On-campus housing is available. Check our website for more details.
+
+
+Ishan:any scholarships available?
+Aristotle:There are various scholarships available. Please visit our scholarship page for more information.
+
+
+Ishan:tell me about admissions
+Elon:Admissions office hours are 9 AM to 5 PM, Monday to Friday.
+
+
+Ishan:what are the timings of cafeteria
+Elon:You can find a wide range of food options in the campus cafeteria.
+
+
+Ishan:housing for students
+Elon:Our dormitories are available for students, with a variety of room options.
+
+
+Ishan:policies for international students
+Elon:We offer support for international students, including visa and immigration assistance.
+
+
